@@ -4,10 +4,10 @@ import Navbar from "../components/Navbar";
 const MainLayout = () => {
   return (
     <>
-        <Navbar/>
-        <Outlet/>
+      <Navbar />
+      <Outlet />
     </>
-  )
-}
+  );
+};
 
-export default MainLayout
+export default MainLayout;
